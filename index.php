@@ -1,3 +1,3 @@
 <?php 
-require_once ("bvhorg.hmtl");
+include_once ("bvhorg.hmtl");
 ?>
